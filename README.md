@@ -18,3 +18,7 @@
 | **01 · Обновление клиента** | Обновлён интерфейс Zenthril, веб-клиент опубликован на GitHub Pages. | [Коммит](https://github.com/ax1plee11/Zenthril/commit/ce95b2c) |
 | **02 · Базовый снимок** | ZenthrilDB получила манифест, проверку и публикацию снимков, восстановление страниц. | [Коммит](https://github.com/ax1plee11/ZenthrilDB/commit/045fa27) |
 | **03 · Проверка сборок** | Debug и Release прошли CTest и проверку CLI на Windows и Ubuntu 24.04. | [GitHub Actions](https://github.com/ax1plee11/ZenthrilDB/actions/runs/43954679734) |
+
+---
+
+![2B среди руин. Плавное приближение камеры.](./2b-ending.gif)
